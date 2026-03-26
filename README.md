@@ -6,6 +6,8 @@ problem for a cantilever bar subjected to a constant distributed load q.
 • Specifically modeled scenarios where the Young’s Modulus E(x) and cross-sectional Area A(x) vary linearly
 along the bar’s length L.
 
+
+
 Here are the images of the expected outputs:
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/0646241c-bf5a-49a2-ac26-477b14ac745a" />
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/c154ca3a-fde1-46cb-84f1-be725936fb75" />
